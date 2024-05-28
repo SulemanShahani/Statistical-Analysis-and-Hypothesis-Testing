@@ -1,6 +1,6 @@
 # Statistical-Analysis-and-Hypothesis-Testing
 
-# Statistical Analysis and Hypothesis Testing
+
 
 ## Overview
 
