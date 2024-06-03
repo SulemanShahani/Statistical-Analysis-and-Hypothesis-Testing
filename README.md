@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project demonstrates various statistical tests and concepts using Python and relevant libraries like `scipy.stats` and `statsmodels`. It covers hypothesis testing, confidence intervals, Type I and Type II errors, statistical power, and sample size calculation.
+This project demonstrates various statistical tests and concepts using Python and relevant libraries like `scipy.stats` and `statsmodels`. It covers hypothesis testing, confidence intervals, chi square, ANOVA tests, Type I and Type II errors, statistical power, and sample size calculation.
 
 ## Concepts Covered
 
